@@ -1,2 +1,1 @@
-# Hello dog
-Hello cat
+print("Helloaaaaaaaaa")
